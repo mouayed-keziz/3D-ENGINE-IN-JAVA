@@ -3,6 +3,15 @@
 this Project is a basic 3D engine built from absolute scratch Java
 it uses java-core to render 3D shapes and entities to a 2D shape that the screen can display.
 
+## features
+
+| features               | ✅ or ❎ |
+| ---------------------- | -------- |
+| ZoomIn && Zoom out     | ✅       |
+| Rotation               | ✅       |
+| Move around the entity | ✅       |
+| Camera Movement        | ❎       |
+
 ## Screenshots
 
 ![App Screenshot1](https://i.ibb.co/MsSCQkK/Capture-d-cran-2022-02-16-211442.png)
