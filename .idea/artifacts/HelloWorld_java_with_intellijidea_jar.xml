@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelloWorld java with intellijidea:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloWorld_java_with_intellijidea_jar</output-path>
+    <root id="archive" name="HelloWorld java with intellijidea.jar">
+      <element id="module-output" name="HelloWorld java with intellijidea" />
+    </root>
+  </artifact>
+</component>
