@@ -1,6 +1,6 @@
 # 3D Engine In Java:
 
-this Project is a basic 3D engine built from absolute scratch Java
+this Project is a basic 3D engine built from absolute scratch with Java
 it uses java-core to render 3D shapes and entities to a 2D shape that the screen can display.
 
 ## Screenshots
